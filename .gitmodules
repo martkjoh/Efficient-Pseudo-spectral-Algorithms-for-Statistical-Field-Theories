@@ -1,3 +1,6 @@
 [submodule "SETD_paper"]
-	path = SETD_paper
+	path = Martin
 	url = https://github.com/Stochastic-Field-Simulations/SETD_paper
+[submodule "SETD"]
+	path = Navdeep
+	url = https://github.com/navdeeprana/SETD
