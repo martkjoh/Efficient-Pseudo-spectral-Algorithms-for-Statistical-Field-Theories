@@ -1,0 +1,3 @@
+[submodule "SETD_paper"]
+	path = SETD_paper
+	url = https://github.com/Stochastic-Field-Simulations/SETD_paper
